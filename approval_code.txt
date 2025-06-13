@@ -1,2 +1,2 @@
 Teamluxus-381-D9VY2
-Teamluxus-936-QOE9K | days=1     # expires in 24 hours
+Teamluxus-936-QOE9K | days=1

@@ -4,3 +4,4 @@ Teamluxus-270-IG3UW | days=1
 Teamluxus-000-ABCDE | days=1
 Teamluxus-248-VRI5K | days=1
 Teamluxus-936-QOE9K
+Teamluxus-627-26YX9 | days=1
